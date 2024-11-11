@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
-import { useSwipeable } from 'react-swipeable';
+import { useSwipeable } from '';
 
 const images = [
-  './image/foto1.jpeg',
-  './image/foto2.jpeg',
+  '.../image/foto1.jpeg',
+  '.../image/foto1.jpeg',
   './image/foto3.jpeg',
   './image/foto4.jpeg',
 ];
